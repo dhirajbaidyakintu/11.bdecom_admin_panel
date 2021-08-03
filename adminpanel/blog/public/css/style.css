@@ -1,0 +1,167 @@
+.wrapper-padding {
+padding: 1% 1% 1% 1% ;
+}
+
+.table-img {
+	width:60px;
+	height:auto;
+}
+
+.loading-animaiton {
+	width: 100px;
+	height: auto;
+}
+
+.error-img {
+	width: 200px;
+	height: auto;
+}
+
+.img-preview {
+    border: none;
+    width: 100%;
+    object-fit: cover;
+    height: 100%;
+}
+
+.img-raw {
+    border: 10px solid transparent;
+    padding: 15px;
+    width: 100%;
+    object-fit: cover;
+    height: 200px;
+    border-image: url(../images/border.png) 30 round;
+}
+
+.img-row1{
+    border: 10px solid transparent!important;
+    width: 100%;
+    object-fit: cover;
+    height: 150px;
+    border-image: url(../images/border.png) 30 round;
+}
+
+.table-color {
+    background-color: aliceblue;
+}
+
+.home-table1 {
+    background-color: #E5E8E9;
+}
+
+.home-table2 {
+    background-color: #C9D1D5;
+}
+
+.home-table3 {
+    background-color: #AAB8BF;
+}
+
+.home-table4 {
+    background-color: #8B9FA9;
+}
+
+.home-table5 {
+    background-color: #748B97;
+}
+
+.home-table6 {
+    background-color: #5D7987;
+}
+
+.home-table7 {
+    background-color: #516B76;
+}
+
+.home-table8 {
+    background-color: #435761;
+}
+
+.home-table9 {
+    background-color: #35454D;
+}
+
+.home-table10 {
+    background-color: #253036;
+}
+
+.home-table11 {
+    background-color: #1E1E1E;
+}
+
+.modal-1 {
+    background-color: #78909C;
+}
+
+.modal-2 {
+    background-color: #546973;
+}
+
+.level-name{
+    font-weight: bold;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+select {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    display: block!important;
+}
+
+.categoryImg{
+    width: 30px;
+    height: auto;
+}
+
+
+.nav-bar-icon{
+    color: #FFFFFF!important;
+}
+
+.nevMenuItem{
+    background: #444444 !important;
+    color: #FFFFFF !important;
+    margin-left: -28px;
+}
+.nevMenuItem:hover{
+    background: #FFFFFF !important;
+    color: #EE1C25 !important;
+    margin-left: -28px;
+}
+.nevItemText{
+    color: #FFFFFF !important;
+    padding: 6px 45px 9px 6px;
+}
+.nevItemText:hover{
+    color: #EE1C25 !important;
+    padding: 6px 45px 9px 6px;
+}
+.SiteInfoTextArea{
+    width: 600px !important;
+    height: 600px !important;
+}
+
+[type=checkbox]:checked, [type=checkbox]:not(:checked) {
+    position: relative !important;
+    opacity: 2 !important;
+    pointer-events: fill !important;
+}
+
+.imgPreview{
+    border: none;
+    width: 100%;
+    object-fit: cover;
+    height: 320px;
+}
+.imgOnRow{
+    border: none !important;
+    width: 100%;
+    object-fit: cover;
+    height: 200px;
+}
+.imgOnRow1{
+    border: none !important;
+    width: 100%;
+    object-fit: cover;
+    height: 150px;
+}
